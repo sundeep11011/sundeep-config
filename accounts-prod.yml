@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to EazyBank accounts related GIT prod webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "Reine@gmail.com"
+    email: "{cipher}d9161e5b91f670a3b93b3fa50a00ebe0d87a056984f013ccd74a1715e76d0e9fe3ac369b25e3affae33b5ccd7857b34b"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
